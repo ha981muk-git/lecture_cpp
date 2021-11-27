@@ -1,0 +1,3 @@
+﻿  VirtuelleAbleitung.cpp
+C:\Users\ruhland\source\repos\Prog2_SoS2020_virtuelle_Ableitung\Prog2_SoS2020_virtuelle_Ableitung\VirtuelleAbleitung.cpp(31,9): error C2660: "BT::Doit": Funktion akzeptiert keine 0 Argumente
+C:\Users\ruhland\source\repos\Prog2_SoS2020_virtuelle_Ableitung\Prog2_SoS2020_virtuelle_Ableitung\VirtuelleAbleitung.cpp(15,7): message : Siehe Deklaration von "BT::Doit"
